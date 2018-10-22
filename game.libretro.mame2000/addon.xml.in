@@ -18,5 +18,6 @@
 		<description lang="en_GB">Supported files: .zip, .ZIP</description>
 		<license>MAME</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.mame2000</source>
 	</extension>
 </addon>
