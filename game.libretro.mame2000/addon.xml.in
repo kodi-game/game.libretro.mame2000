@@ -2,7 +2,7 @@
 <addon id="game.libretro.mame2000"
 		name="Arcade (MAME 2000)"
 		version="0.37.0.9"
-		provider-name="Libretro">
+		provider-name="MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
