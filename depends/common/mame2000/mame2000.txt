@@ -1,1 +1,1 @@
-mame2000 https://github.com/libretro/mame2000-libretro/archive/6655a5122c4a34e57de933fedafa3c6ec6a221be.zip
+mame2000 https://github.com/libretro/mame2000-libretro/archive/c0de127a589c75ffea0fd9248fa43953148b937a.zip
