@@ -21,9 +21,9 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Show Game Information"
+msgid "Skip Disclaimer"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Skip Disclaimer"
+msgid "Show Game Information"
 msgstr ""
