@@ -14,14 +14,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Supported files: .zip, .ZIP</description>
 		<license>MAME</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mame2000</source>
 		<summary lang="en_GB">Arcade (MAME 2000) 0.37b5</summary>
-		<description lang="en_GB">2000 version of MAME (0.37b5) for libretro. Compatible with iMAME4All/MAME4Droid/MAME 0.37b5 sets.
-
-Supported files: .zip, .ZIP</description>
+		<description lang="en_GB">2000 version of MAME (0.37b5) for libretro. Compatible with iMAME4All/MAME4Droid/MAME 0.37b5 sets.</description>
 	</extension>
 </addon>
