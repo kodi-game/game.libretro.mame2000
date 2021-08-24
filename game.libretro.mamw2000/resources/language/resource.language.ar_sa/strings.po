@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Arcade (MAME 2000) 0.37b5"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "2000 version of MAME (0.37b5) for libretro. Compatible with iMAME4All/MAME4Droid/MAME 0.37b5 sets.
+
+Supported files: .zip, .ZIP"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
