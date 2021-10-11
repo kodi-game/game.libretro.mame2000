@@ -30,9 +30,29 @@ msgid "Settings"
 msgstr "Ajustes"
 
 msgctxt "#30001"
-msgid "Skip Disclaimer"
+msgid "Frameskip "
 msgstr ""
 
 msgctxt "#30002"
+msgid "Frameskip Threshold (%)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Frameskip Interval"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Skip Disclaimer"
+msgstr ""
+
+msgctxt "#30005"
 msgid "Show Game Information"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Audio Rate (Restart)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Stereo (Restart)"
 msgstr ""
