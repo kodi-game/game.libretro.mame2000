@@ -6,7 +6,7 @@
 		<setting label="30003" type="select" id="mame2000-frameskip_interval" values="1|2|3|4|5|6|7|8|9" default="1"/>
 		<setting label="30004" type="select" id="mame2000-skip_disclaimer" values="enabled|disabled" default="enabled"/>
 		<setting label="30005" type="select" id="mame2000-show_gameinfo" values="disabled|enabled" default="disabled"/>
-		<setting label="30006" type="select" id="mame2000-sample_rate" values="32000|11025|22050|32000|44100" default="32000"/>
+		<setting label="30006" type="select" id="mame2000-sample_rate" values="22050|11025|22050|32000|44100" default="22050"/>
 		<setting label="30007" type="select" id="mame2000-stereo" values="enabled|disabled" default="enabled"/>
 	</category>
 </settings>
