@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Arcade (MAME 2000) 0.37b5</summary>
+		<description lang="da_DK">2000 version af MAME (0.37b5) til libretro. Kompatibel med iMAME4All/MAME4Droid/MAME 0.37b5 sæt.</description>
 		<description lang="en_GB">2000 version of MAME (0.37b5) for libretro. Compatible with iMAME4All/MAME4Droid/MAME 0.37b5 sets.</description>
 	</extension>
 </addon>
