@@ -13,7 +13,7 @@ MAME
 
 ### Icon
 
-![Icon](game.libretro.mame2000/resources/icon.png)
+![Arcade (MAME 2000) icon](game.libretro.mame2000/resources/icon.png)
 
 ### Fanart
 
