@@ -31,6 +31,7 @@
 		<description lang="en_GB">2000 version of MAME (0.37b5) for libretro. Compatible with iMAME4All/MAME4Droid/MAME 0.37b5 sets.</description>
 		<description lang="es_ES">Versión 2000 de MAME (0.37b5) para libretro. Compatible con los juegos de iMAME4All/MAME4Droid/MAME 0.37b5.</description>
 		<description lang="it_IT">Versione 2000 di MAME (0.37b5) per libretro. Compatibile con i set iMAME4All/MAME4Droid/MAME 0.37b5.</description>
+		<description lang="sl_SI">2000 različica MAME (0.37b5) za libretro. Združljivo s kompleti iMAME4All/MAME4Droid/MAME 0.37b5.</description>
 		<description lang="zh_CN">用于 libretro 的 2000 版本的 MAME（0.37b5）。与 iMAME4All/MAME4Droid/MAME 0.37b5 集兼容。</description>
 	</extension>
 </addon>
