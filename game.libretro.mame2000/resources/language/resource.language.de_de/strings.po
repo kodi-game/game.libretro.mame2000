@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "2000 version of MAME (0.37b5) for libretro. Compatible with iMAME4All/MAME4Droid/MAME 0.37b5 sets."
 msgstr "2000er Version von MAME (0.37b5) für libretro. Kompatibel mit Sets von iMAME4All/MAME4Droid/MAME 0.37b5."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Frameskip "
 msgstr "Frameskip "
@@ -56,3 +52,7 @@ msgstr "Audiorate (Neustart erforderlich)"
 msgctxt "#30007"
 msgid "Stereo (Restart)"
 msgstr "Stereo (Neustart erforderlich)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
