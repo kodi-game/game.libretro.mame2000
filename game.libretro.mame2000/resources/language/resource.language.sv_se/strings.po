@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mame2000\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2018-09-02 20:29i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mame2000/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "2000 års version av MAME (0.37b5) för libretro. Kompatibel med iMAME4A
 
 msgctxt "#30001"
 msgid "Frameskip "
-msgstr ""
+msgstr "Hoppa över bildrutor "
 
 msgctxt "#30002"
 msgid "Frameskip Threshold (%)"
