@@ -24,6 +24,7 @@
 		<summary lang="da_DK">Arcade (MAME 2000)</summary>
 		<summary lang="en_GB">Arcade (MAME 2000)</summary>
 		<summary lang="es_ES">Arcade (MAME 2000)</summary>
+		<summary lang="ga">Arcade (MAME 2000)</summary>
 		<summary lang="it_IT">Arcade (MAME 2000)</summary>
 		<summary lang="sv_SE">Arcade (MAME 2000)</summary>
 		<summary lang="zh_CN">街机（MAME 2000）</summary>
@@ -31,6 +32,7 @@
 		<description lang="de_DE">2000er Version von MAME (0.37b5) für libretro. Kompatibel mit Sets von iMAME4All/MAME4Droid/MAME 0.37b5.</description>
 		<description lang="en_GB">2000 version of MAME (0.37b5) for libretro. Compatible with iMAME4All/MAME4Droid/MAME 0.37b5 sets.</description>
 		<description lang="es_ES">Versión 2000 de MAME (0.37b5) para libretro. Compatible con los juegos de iMAME4All/MAME4Droid/MAME 0.37b5.</description>
+		<description lang="ga">Leagan 2000 de MAME (0.37b5) do libretro. Comhoiriúnach le tacair iMAME4All/MAME4Droid/MAME 0.37b5.</description>
 		<description lang="it_IT">Versione 2000 di MAME (0.37b5) per libretro. Compatibile con i set iMAME4All/MAME4Droid/MAME 0.37b5.</description>
 		<description lang="sl_SI">2000 različica MAME (0.37b5) za libretro. Združljivo s kompleti iMAME4All/MAME4Droid/MAME 0.37b5.</description>
 		<description lang="sv_SE">2000 års version av MAME (0.37b5) för libretro. Kompatibel med iMAME4All/MAME4Droid/MAME 0.37b5-uppsättningar.</description>
