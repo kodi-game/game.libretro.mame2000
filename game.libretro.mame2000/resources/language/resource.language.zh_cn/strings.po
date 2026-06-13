@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "2000 version of MAME (0.37b5) for libretro. Compatible with iMAME4All/MAME4Droid/MAME 0.37b5 sets."
 msgstr "用于 libretro 的 2000 版本的 MAME（0.37b5）。与 iMAME4All/MAME4Droid/MAME 0.37b5 集兼容。"
 
-msgctxt "#30001"
-msgid "Frameskip "
-msgstr "帧跳过 "
-
 msgctxt "#30002"
 msgid "Frameskip Threshold (%)"
 msgstr "帧跳过阈值（%）"
@@ -52,6 +48,18 @@ msgstr "音频速率（重新启动）"
 msgctxt "#30007"
 msgid "Stereo (Restart)"
 msgstr "立体声（重新启动）"
+
+msgctxt "#30008"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30009"
+msgid "QSound Output Filter"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Frameskip "
+#~ msgstr "帧跳过 "
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

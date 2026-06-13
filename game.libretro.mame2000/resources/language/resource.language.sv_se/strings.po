@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "2000 version of MAME (0.37b5) for libretro. Compatible with iMAME4All/MAME4Droid/MAME 0.37b5 sets."
 msgstr "2000 års version av MAME (0.37b5) för libretro. Kompatibel med iMAME4All/MAME4Droid/MAME 0.37b5-uppsättningar."
 
-msgctxt "#30001"
-msgid "Frameskip "
-msgstr "Hoppa över bildrutor "
-
 msgctxt "#30002"
 msgid "Frameskip Threshold (%)"
 msgstr "Tröskelvärde för bildöverhoppning (%)"
@@ -52,6 +48,18 @@ msgstr "Ljudfrekvens (omstart)"
 msgctxt "#30007"
 msgid "Stereo (Restart)"
 msgstr "Stereo (omstart)"
+
+msgctxt "#30008"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30009"
+msgid "QSound Output Filter"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Frameskip "
+#~ msgstr "Hoppa över bildrutor "
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
