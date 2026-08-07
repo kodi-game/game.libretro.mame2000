@@ -42,10 +42,6 @@ msgctxt "#30005"
 msgid "Show Game Information"
 msgstr ""
 
-msgctxt "#30006"
-msgid "Audio Rate (Restart)"
-msgstr ""
-
 msgctxt "#30007"
 msgid "Stereo (Restart)"
 msgstr ""
@@ -56,4 +52,8 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "QSound Output Filter"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Sample rate hint (Restart)"
 msgstr ""
