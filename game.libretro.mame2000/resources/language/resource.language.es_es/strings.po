@@ -41,10 +41,6 @@ msgctxt "#30005"
 msgid "Show Game Information"
 msgstr "Mostrar Información del Juego"
 
-msgctxt "#30006"
-msgid "Audio Rate (Restart)"
-msgstr "Frecuencia de Sonido (Reiniciar)"
-
 msgctxt "#30007"
 msgid "Stereo (Restart)"
 msgstr "Estéreo (Reiniciar)"
@@ -56,6 +52,14 @@ msgstr "Salto de fotogramas"
 msgctxt "#30009"
 msgid "QSound Output Filter"
 msgstr "Filtro de Salida QSound"
+
+msgctxt "#30010"
+msgid "Sample rate hint (Restart)"
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Audio Rate (Restart)"
+#~ msgstr "Frecuencia de Sonido (Reiniciar)"
 
 #~ msgctxt "#30001"
 #~ msgid "Frameskip "

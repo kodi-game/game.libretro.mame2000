@@ -41,10 +41,6 @@ msgctxt "#30005"
 msgid "Show Game Information"
 msgstr "显示游戏信息"
 
-msgctxt "#30006"
-msgid "Audio Rate (Restart)"
-msgstr "音频速率（重新启动）"
-
 msgctxt "#30007"
 msgid "Stereo (Restart)"
 msgstr "立体声（重新启动）"
@@ -56,6 +52,14 @@ msgstr "跳帧"
 msgctxt "#30009"
 msgid "QSound Output Filter"
 msgstr "QSound 输出滤波器"
+
+msgctxt "#30010"
+msgid "Sample rate hint (Restart)"
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Audio Rate (Restart)"
+#~ msgstr "音频速率（重新启动）"
 
 #~ msgctxt "#30001"
 #~ msgid "Frameskip "

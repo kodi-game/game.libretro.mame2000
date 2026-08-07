@@ -41,10 +41,6 @@ msgctxt "#30005"
 msgid "Show Game Information"
 msgstr "Zobrazit informace o hře"
 
-msgctxt "#30006"
-msgid "Audio Rate (Restart)"
-msgstr "Vzorkovací frekvence zvuku (vyžaduje restart)"
-
 msgctxt "#30007"
 msgid "Stereo (Restart)"
 msgstr "Stereo (vyžaduje restart)"
@@ -56,3 +52,11 @@ msgstr "Přeskakování snímků"
 msgctxt "#30009"
 msgid "QSound Output Filter"
 msgstr "Výstupní filtr QSound"
+
+msgctxt "#30010"
+msgid "Sample rate hint (Restart)"
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Audio Rate (Restart)"
+#~ msgstr "Vzorkovací frekvence zvuku (vyžaduje restart)"
