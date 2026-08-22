@@ -55,3 +55,43 @@ msgstr ""
 msgctxt "#30010"
 msgid "Sample rate hint (Restart)"
 msgstr ""
+
+msgctxt "#30011"
+msgid "Skip rendering frames to keep the audio output in sync when the host cannot run the game at full speed.  'auto' uses the frontend's audio-buffer hint; 'threshold' skips when the audio buffer drops below the percentage configured below."
+msgstr ""
+
+msgctxt "#30012"
+msgid "When Frameskip is set to 'threshold', skip a frame whenever the audio output buffer falls below this percentage of full.  Lower values skip more aggressively."
+msgstr ""
+
+msgctxt "#30013"
+msgid "Maximum number of consecutive frames that may be skipped.  Lower values keep visual updates smoother at the cost of more audio drops when the host is overloaded."
+msgstr ""
+
+msgctxt "#30014"
+msgid "Hide MAME's legal disclaimer screen at game startup."
+msgstr ""
+
+msgctxt "#30015"
+msgid "Show MAME's driver-status and game-information screens at startup before the game begins running."
+msgstr ""
+
+msgctxt "#30016"
+msgid "Output audio sample rate, in Hz.  22050 is the legacy MAME 0.78 default; higher rates increase audio fidelity at the cost of additional CPU.  \"Auto\" asks the frontend for its target rate and rounds to the nearest standard rate, falling back to 48000 if the frontend does not report one.  \"Manual\" currently behaves like \"Auto\".  Changing this value requires a core restart."
+msgstr ""
+
+msgctxt "#30017"
+msgid "Auto"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Manual"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Output stereo audio.  Disable for slightly lower CPU on games that don't use stereo mixing.  Changing this value requires a core restart."
+msgstr ""
+
+msgctxt "#30020"
+msgid "Run the QSound voice mix through a 95-tap windowed-sinc low-pass FIR (8 kHz cutoff) and per-channel output delay line before sending it to the host.  Smooths the upper-band aliasing the 8-bit ROM samples produce on transients and applies the algorithm's slight L/R offset for a wider stereo image.  Costs roughly 15-20% extra CPU during active QSound audio.  This option is hidden in the menu for games that don't use the QSound sound chip."
+msgstr ""
