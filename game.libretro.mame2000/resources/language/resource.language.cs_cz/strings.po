@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mame2000\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2018-09-02 20:29i\n"
-"PO-Revision-Date: 2026-08-22 22:04+0000\n"
+"PO-Revision-Date: 2026-08-23 09:12+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mame2000/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -99,35 +99,35 @@ msgstr "Mixovat hlasy QSound pomocí FIR dolní propusti s oknem sinc o 95 tapá
 
 msgctxt "#30021"
 msgid "threshold"
-msgstr ""
+msgstr "práh"
 
 msgctxt "#30022"
 msgid "8000"
-msgstr ""
+msgstr "8000"
 
 msgctxt "#30023"
 msgid "11025"
-msgstr ""
+msgstr "11025"
 
 msgctxt "#30024"
 msgid "22050"
-msgstr ""
+msgstr "22050"
 
 msgctxt "#30025"
 msgid "32000"
-msgstr ""
+msgstr "32000"
 
 msgctxt "#30026"
 msgid "44100"
-msgstr ""
+msgstr "44100"
 
 msgctxt "#30027"
 msgid "48000"
-msgstr ""
+msgstr "48000"
 
 msgctxt "#30028"
 msgid "96000"
-msgstr ""
+msgstr "96000"
 
 #~ msgctxt "#30006"
 #~ msgid "Audio Rate (Restart)"
