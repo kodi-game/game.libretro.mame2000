@@ -95,3 +95,35 @@ msgstr ""
 msgctxt "#30020"
 msgid "Run the QSound voice mix through a 95-tap windowed-sinc low-pass FIR (8 kHz cutoff) and per-channel output delay line before sending it to the host.  Smooths the upper-band aliasing the 8-bit ROM samples produce on transients and applies the algorithm's slight L/R offset for a wider stereo image.  Costs roughly 15-20% extra CPU during active QSound audio.  This option is hidden in the menu for games that don't use the QSound sound chip."
 msgstr ""
+
+msgctxt "#30021"
+msgid "threshold"
+msgstr ""
+
+msgctxt "#30022"
+msgid "8000"
+msgstr ""
+
+msgctxt "#30023"
+msgid "11025"
+msgstr ""
+
+msgctxt "#30024"
+msgid "22050"
+msgstr ""
+
+msgctxt "#30025"
+msgid "32000"
+msgstr ""
+
+msgctxt "#30026"
+msgid "44100"
+msgstr ""
+
+msgctxt "#30027"
+msgid "48000"
+msgstr ""
+
+msgctxt "#30028"
+msgid "96000"
+msgstr ""
