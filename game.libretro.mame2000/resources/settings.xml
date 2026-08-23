@@ -8,9 +8,9 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>auto</option>
-							<option>threshold</option>
+							<option label="13106">disabled</option>
+							<option label="16316">auto</option>
+							<option label="30021">threshold</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -51,8 +51,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -62,8 +62,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -75,13 +75,13 @@
 						<options>
 							<option label="30017">auto</option>
 							<option label="30018">manual</option>
-							<option>8000</option>
-							<option>11025</option>
-							<option>22050</option>
-							<option>32000</option>
-							<option>44100</option>
-							<option>48000</option>
-							<option>96000</option>
+							<option label="30022">8000</option>
+							<option label="30023">11025</option>
+							<option label="30024">22050</option>
+							<option label="30025">32000</option>
+							<option label="30026">44100</option>
+							<option label="30027">48000</option>
+							<option label="30028">96000</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -91,8 +91,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -102,8 +102,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
