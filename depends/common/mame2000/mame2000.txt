@@ -1,1 +1,1 @@
-mame2000 https://github.com/libretro/mame2000-libretro/archive/f099ba44c7664906fd7e01cbed89d13a7e32dee1.tar.gz
+mame2000 https://github.com/libretro/mame2000-libretro/archive/181b42e5da0d2f0c7a2e59244f23633ed594de2e.tar.gz
